@@ -1,7 +1,7 @@
 {
   "name": "motî (Web)",
   "short_name": "motî",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
