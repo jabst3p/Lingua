@@ -1,0 +1,58 @@
+f <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>motî (Web)</title>
+</head>
+<body>
+  <header class="top-bar">
+    <div class="title">motî</div>
+    <input id="search" class="search" placeholder="Search…" autocomplete="off" />
+  </header>
+
+  <nav class="tabs">
+    <button id="tab-browse" class="tab active">Browse</button>
+    <button id="tab-lists" class="tab">Lists</button>
+  </nav>
+
+  <main class="layout" id="view-browse">
+    <section class="results-pane">
+      <ul id="results" class="results-list"></ul>
+    </section>
+    <section class="detail-pane">
+      <h1 id="word-title" class="word-title"></h1>
+      <div id="word-meta" class="word-meta"></div>
+      <button id="save-btn" class="save-btn" disabled>Add to list…</button>
+      <div id="definition" class="definition"></div>
+    </section>
+  </main>
+
+  <main class="layout hidden" id="view-lists">
+    <section class="results-pane">
+      <div class="lists-header">
+        <span>Lists</span>
+        <button id="new-list-btn" class="small-btn">New list</button>
+      </div>
+      <ul id="lists" class="results-list"></ul>
+    </section>
+    <section class="detail-pane">
+      <h1 id="list-title" class="word-title"></h1>
+      <ul id="list-words" class="results-list"></ul>
+    </section>
+  </main>
+
+  <footer class="footer">
+    motî‑web · offline dictionary
+  </footer>
+
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js');
+    }
+  </script>
+</body>
+</html>

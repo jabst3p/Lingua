@@ -1,0 +1,17 @@
+[
+  {
+    "headword": "apple",
+    "collocates": {
+      "adjectives": [
+        "red",
+        "ripe",
+        "sweet"
+      ],
+      "verbs": [
+        "eat",
+        "pick",
+        "slice"
+      ]
+    }
+  }
+]
