@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "word": "eloquence",
+    "pos": "noun",
+    "definitions": ["The art of speaking with persuasive fluency"]
+  },
+  {
+    "word": "benevolent",
+    "pos": "adjective",
+    "definitions": ["Kind, charitable, and generous", "Expressing goodwill or kindness"]
+  },
+  {
+    "word": "gregarious",
+    "pos": "adjective",
+    "definitions": ["Fond of the company of others", "Living in or preferring company with others of the same kind"]
+  },
+  {
+    "word": "languid",
+    "pos": "adjective",
+    "definitions": ["Lacking energy or strength", "Relaxed and slow, as if lazy"]
+  },
+  {
+    "word": "jubilant",
+    "pos": "adjective",
+    "definitions": ["Joyful and triumphant", "Exultant, expressing great joy"]
+  },
+  {
+    "word": "loquacious",
+    "pos": "adjective",
+    "definitions": ["Tending to talk a great deal", "Chatty, verbose"]
+  },
+  {
+    "word": "pellucid",
+    "pos": "adjective",
+    "definitions": ["Clear in style and expression", "Translucent or transparent"]
+  },
+  {
+    "word": "sagacious",
+    "pos": "adjective",
+    "definitions": ["Having keen mental perception and understanding", "Wise in understanding"]
+  },
+  {
+    "word": "sanguine",
+    "pos": "adjective",
+    "definitions": ["Optimistic, positive in an apparently bad situation", "Reddish or blood-colored"]
+  },
+  {
+    "word": "succinct",
+    "pos": "adjective",
+    "definitions": ["Briefly and clearly expressed", "Concise and compressed"]
+  }
+]

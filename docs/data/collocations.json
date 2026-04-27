@@ -2,16 +2,57 @@
   {
     "headword": "apple",
     "collocates": {
-      "adjectives": [
-        "red",
-        "ripe",
-        "sweet"
-      ],
-      "verbs": [
-        "eat",
-        "pick",
-        "slice"
-      ]
+      "adjectives": ["red", "ripe", "sweet", "crisp", "juicy", "fresh", "green", "golden"],
+      "verbs": ["eat", "pick", "slice", "bite", "peel", "crush"]
+    }
+  },
+  {
+    "headword": "water",
+    "collocates": {
+      "adjectives": ["clear", "fresh", "cold", "hot", "salt", "dirty", "pure", "still"],
+      "verbs": ["drink", "pour", "flow", "splash", "freeze", "boil", "filter"]
+    }
+  },
+  {
+    "headword": "book",
+    "collocates": {
+      "adjectives": ["good", "interesting", "thick", "rare", "old", "new", "hardcover", "paperback"],
+      "verbs": ["read", "write", "open", "close", "publish", "bind"]
+    }
+  },
+  {
+    "headword": "music",
+    "collocates": {
+      "adjectives": ["beautiful", "loud", "soft", "classical", "modern", "live", "recorded"],
+      "verbs": ["play", "listen", "compose", "perform", "create"]
+    }
+  },
+  {
+    "headword": "sky",
+    "collocates": {
+      "adjectives": ["blue", "clear", "dark", "starry", "cloudy", "vast", "endless"],
+      "verbs": ["admire", "observe", "gaze", "scan"]
+    }
+  },
+  {
+    "headword": "time",
+    "collocates": {
+      "adjectives": ["long", "short", "precious", "wasted", "lost", "fleeting"],
+      "verbs": ["pass", "fly", "spend", "kill", "waste", "save"]
+    }
+  },
+  {
+    "headword": "heart",
+    "collocates": {
+      "adjectives": ["broken", "pure", "kind", "heavy", "light", "warm"],
+      "verbs": ["break", "mend", "love", "beat", "ache"]
+    }
+  },
+  {
+    "headword": "journey",
+    "collocates": {
+      "adjectives": ["long", "short", "dangerous", "beautiful", "spiritual"],
+      "verbs": ["begin", "start", "complete", "undertake", "embark"]
     }
   }
 ]

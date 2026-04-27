@@ -3,7 +3,7 @@ import json
 import subprocess
 import shutil
 
-BASE = "/workspaces/Lingua/public/data"
+BASE = "/workspaces/Lingua/docs/data"
 os.makedirs(BASE, exist_ok=True)
 
 def run(cmd):

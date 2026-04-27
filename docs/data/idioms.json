@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "word": "break",
+    "idioms": [
+      {"phrase": "break the ice", "meaning": "To initiate conversation or eliminate awkwardness in a social setting"},
+      {"phrase": "break the bank", "meaning": "To cost a very large sum of money or exceed one's budget"}
+    ]
+  },
+  {
+    "word": "see",
+    "idioms": [
+      {"phrase": "see eye to eye", "meaning": "To agree with someone about something"},
+      {"phrase": "see red", "meaning": "To become very angry"}
+    ]
+  },
+  {
+    "word": "take",
+    "idioms": [
+      {"phrase": "take for granted", "meaning": "To fail to appreciate someone or something"},
+      {"phrase": "take a shot", "meaning": "To attempt something risky or challenging"}
+    ]
+  },
+  {
+    "word": "hit",
+    "idioms": [
+      {"phrase": "hit the nail on the head", "meaning": "To identify the exact central point of the problem"},
+      {"phrase": "hit the ground running", "meaning": "To start something at full speed without preparation"}
+    ]
+  },
+  {
+    "word": "word",
+    "idioms": [
+      {"phrase": "word to the wise", "meaning": "A brief account of something that one should know or remember"},
+      {"phrase": "take my word for it", "meaning": "Believe what I say without question"}
+    ]
+  },
+  {
+    "word": "apple",
+    "idioms": [
+      {"phrase": "apple of one's eye", "meaning": "A person who is loved more than anyone or anything else"},
+      {"phrase": "bad apple", "meaning": "A person or thing that is bad or has bad effects"}
+    ]
+  },
+  {
+    "word": "water",
+    "idioms": [
+      {"phrase": "water under the bridge", "meaning": "Past events that are no longer important or worth worrying about"},
+      {"phrase": "hold water", "meaning": "To be logical and consistent; To be sound and convincing"}
+    ]
+  },
+  {
+    "word": "wind",
+    "idioms": [
+      {"phrase": "wind up", "meaning": "To end up in some place or state, sometimes unexpectedly"},
+      {"phrase": "second wind", "meaning": "Regained energy to continue an activity"}
+    ]
+  }
+]

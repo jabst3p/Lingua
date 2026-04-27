@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "word": "serendipity",
+    "pos": "noun",
+    "definitions": ["The occurrence and development of events by chance in a happy or beneficial way", "Finding something good without looking for it"]
+  },
+  {
+    "word": "ebullient",
+    "pos": "adjective",
+    "definitions": ["Enthusiastic or energetic", "Boiling over, bubbling up"]
+  },
+  {
+    "word": "ephemeral",
+    "pos": "adjective",
+    "definitions": ["Lasting for a very short time", "Temporary, transitory"]
+  },
+  {
+    "word": "eloquent",
+    "pos": "adjective",
+    "definitions": ["Fluent or persuasive in speaking or writing", "Expressive, meaningful"]
+  },
+  {
+    "word": "meander",
+    "pos": "verb",
+    "definitions": ["To wind through an area", "To walk or move aimlessly", "Follows a winding course"]
+  },
+  {
+    "word": "ameliorate",
+    "pos": "verb",
+    "definitions": ["To make better or improve", "To improve in value or quality"]
+  },
+  {
+    "word": "perspicacious",
+    "pos": "adjective",
+    "definitions": ["Having keen insight and understanding", "Mentally sharp, discerning"]
+  },
+  {
+    "word": "propinquity",
+    "pos": "noun",
+    "definitions": ["Nearness in space, time, or relationship", "Proximity, similarity"]
+  },
+  {
+    "word": "sedulous",
+    "pos": "adjective",
+    "definitions": ["Diligent in application or attention to detail", "Showing care and effort"]
+  },
+  {
+    "word": "obfuscate",
+    "pos": "verb",
+    "definitions": ["To make obscure, unclear, or difficult to understand", "To confuse intentionally"]
+  }
+]

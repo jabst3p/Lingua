@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "word": "serendipity",
+    "examples": ["I found this old bookshop entirely by serendipity while I was lost exploring the city.", "Meeting my best friend at college was pure serendipity."]
+  },
+  {
+    "word": "eloquent",
+    "examples": ["The speaker gave an eloquent speech about climate change that moved the entire audience.", "Her writings are eloquent and powerful, expressing complex emotions with simple words."]
+  },
+  {
+    "word": "ephemeral",
+    "examples": ["The beauty of cherry blossoms is ephemeral, lasting only a few weeks each spring.", "His fame proved to be ephemeral, remembered only briefly after the scandal."]
+  },
+  {
+    "word": "meander",
+    "examples": ["The river meanders through the valley, creating beautiful oxbow lakes.", "We decided to meander through the old town, stopping at every shop that caught our eye."]
+  },
+  {
+    "word": "benevolent",
+    "examples": ["The benevolent donor gave millions to establish scholarships for underprivileged students.", "She has a benevolent nature and is always willing to help those in need."]
+  },
+  {
+    "word": "gregarious",
+    "examples": ["Wolves are gregarious animals that hunt and live in coordinated packs.", "He's a very gregarious person who enjoys being surrounded by friends at all times."]
+  },
+  {
+    "word": "jubilant",
+    "examples": ["The jubilant fans celebrated wildly when their team won the championship.", "The streets were filled with jubilant crowds celebrating the end of the war."]
+  },
+  {
+    "word": "languish",
+    "examples": ["Political prisoners languished in overcrowded cells for years without trial.", "The neglected beauty of the abandoned mansion continued to languish beneath layers of dust."]
+  },
+  {
+    "word": "nostalgia",
+    "examples": ["I felt a wave of nostalgia looking at old photographs from my childhood.", "The movie captures the nostalgia of simpler times perfectly, making audiences long for the past."]
+  },
+  {
+    "word": "wanderlust",
+    "examples": ["Her wanderlust took her across five continents in just two years of travel.", "He was seized by wanderlust after reading travel journals from famous explorers."]
+  }
+]
