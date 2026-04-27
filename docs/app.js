@@ -30,7 +30,7 @@ let currentWord = null;
 async function loadAll() {
   for (const file of DATA_FILES) {
     const id = file.replace(".json", "");
-    const res = await fetch("data/" + file);
+    const res = await fetch("./data/" + file);
     const raw = await res.json();
     normalize(id, raw);
   }
